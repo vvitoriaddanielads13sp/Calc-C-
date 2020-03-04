@@ -1,0 +1,10 @@
+C:\Users\aluno3\source\repos\calc\calc\bin\Debug\calc.exe.config
+C:\Users\aluno3\source\repos\calc\calc\bin\Debug\calc.exe
+C:\Users\aluno3\source\repos\calc\calc\bin\Debug\calc.pdb
+C:\Users\aluno3\source\repos\calc\calc\obj\Debug\calc.csprojAssemblyReference.cache
+C:\Users\aluno3\source\repos\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\aluno3\source\repos\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\aluno3\source\repos\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\aluno3\source\repos\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\aluno3\source\repos\calc\calc\obj\Debug\calc.exe
+C:\Users\aluno3\source\repos\calc\calc\obj\Debug\calc.pdb
